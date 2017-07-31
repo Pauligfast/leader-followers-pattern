@@ -1,0 +1,45 @@
+Cab: 1 became a leader
+Cab: 3 became a leader
+Cab: 6 became a leader
+Cab: 5 became a leader
+Cab: 4 became a leader
+Cab: 2 became a leader
+Cab: 1 took task
+Cab: 2 took task
+Cab: 4 took task
+Cab: 5 took task
+Cab: 6 took task
+Cab: 3 took task
+Cab: 5 completed the task. Travelled 166 miles
+Cab: 5 became a leader
+Cab: 5 took task
+Cab: 3 completed the task. Travelled 343 miles
+Cab: 3 became a leader
+Cab: 3 took task
+Cab: 3 completed the task. Travelled 302 miles
+Cab: 3 became a leader
+Cab: 3 took task
+Cab: 3 completed the task. Travelled 479 miles
+Cab: 6 completed the task. Travelled 1222 miles
+Cab: 3 became a leader
+Cab: 6 became a leader
+Cab: 3 took task
+Cab: 6 took task
+Cab: 2 completed the task. Travelled 1342 miles
+Cab: 2 became a leader
+Cab: 2 took task
+Cab: 1 completed the task. Travelled 1426 miles
+Cab: 1 became a leader
+Cab: 1 took task
+Cab: 5 completed the task. Travelled 1515 miles
+Cab: 5 became a leader
+Cab: 5 took task
+Cab: 5 completed the task. Travelled 43 miles
+Cab: 5 became a leader
+Cab: 5 took task
+Cab: 4 completed the task. Travelled 1850 miles
+Cab: 6 completed the task. Travelled 979 miles
+Cab: 1 completed the task. Travelled 883 miles
+Cab: 3 completed the task. Travelled 1225 miles
+Cab: 2 completed the task. Travelled 1353 miles
+Cab: 5 completed the task. Travelled 1385 miles
